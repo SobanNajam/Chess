@@ -1,0 +1,17 @@
+void swap(char** , char** ,int* ,int* ,int ,int );
+void move(char** ,int* , int* ,int*,FILE* name,char* plr1,char* plr2);
+int decoder(char ,int );
+void check_calculator(int* Ab, int* Aw, char a,int x,char b,int y);
+void record_keeper(int* array, int from, int to);
+void r (int* , int,int);
+int the_checker (int* Ab, int* Aw, int from,int to,char a,int x,char b,int y);
+int legal_pawn(int* ,int* ,int, int, char);
+int legal_knight(int* black, int* white, int to, int from, char clr);
+int legal_rook(int* black, int* white, int to, int from, char clr,char a,int x,char b,int y);
+int legal_bishop(int* black, int* white, int to, int from,char);
+int legal_queen(int* Ab,int* Aw,int to,int from,char a,int x,char b, int y,char clr);
+int legal_king(int* black, int* white, int to, int from, char clr);
+void recoder (int x,char* c,int* a);
+int checkmateB(int* Ab,int* Aw);
+int checkmateW(int* Ab,int* Aw);
+int stalemate(int* A,char clr);

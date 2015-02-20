@@ -1,0 +1,39 @@
+There are two sides in a chess game :
+1. White
+2. Black
+
+
+Each side has the following elements :
+2 Rooks
+2 Bishops
+2 Knights
+1 Queen
+1 King
+8 Pawns
+
+Movement of elements :
+
+1. Rooks :
+	  The rook moves any number of vacant squares vertically 
+	  or horizontally.
+
+2. Bishops :
+	    The bishop moves any number of vacant squares 
+	    in any diagonal direction.
+
+3. Knights :
+	    The knight moves two squares horizontally then one square 
+	    vertically, or one square horizontally then two squares vertically. 
+	    Its move is not blocked by other pieces. it jumps to 
+	    the new location.
+
+4. Queen :
+	  The queen can move any number of vacant squares diagonally,
+	  horizontally, or vertically.
+
+5. King :
+	 The king can move exactly one square horizontally, vertically,
+	 or diagonally
+
+6. Pawn :
+	 A pawn can move forward one square if that square is unoccupied.

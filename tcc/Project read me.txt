@@ -1,0 +1,11 @@
+Chess.c && Chess.h are non executables, executing them 
+will give an error. In order to run the file goto file 
+"board.c" and execute.
+.
+
+Regards,
+
+S.M.Jahanzeb (k11-2199) (group leader)
+Soban Najam (k11-2051) 
+Ahmed Sohail Anwari (k11-2236)
+Faisal Siddiq (k11-2302)

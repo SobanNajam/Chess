@@ -1,0 +1,23 @@
+ It is mentioned in each turn wether it is White's turn to move or Black's.
+
+ The corresponding player has to move whatever units he prefers bearing in
+ mind that that movement is in accordance with the rules of Chess.
+
+ Syntax of movement :
+   1. Mention the co-ordinates of movement in the followinhg pattern :
+    ---> X1Y1 to X2Y2
+	 For example :
+	 To move a pawn 1box forward apply the following syntax : "A2 to A3"
+  
+   2. Illegal movement is highlighted by the computer but it is recommended not      to waste time in illegal movement.
+	
+   3. The computer will indicate the scenario of both check and checkmate.
+
+   4. Upon check mate the winner will be automatically declared by the computer.
+	
+    
+
+ NOTE : C is a case sensitive HLL , so in order to avoid any errors be very     precise in terms of the syntax.
+
+
+                           "That's all. Best of luck !"
